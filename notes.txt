@@ -1,3 +1,7 @@
 some notes for the project
 
+<<<<<<< HEAD
 changes added
+=======
+new feature details
+>>>>>>> NewFeature
